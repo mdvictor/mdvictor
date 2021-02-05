@@ -1,7 +1,7 @@
-### Hi!👋
-## My name is [Victor!](https://www.victor-marin.dev/) and I like code.
+## Hi!👋
+### My name is [Victor!](https://www.victor-marin.dev/) and I like code.
 
-<img alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 50px;"/>
+<img alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 30px;"/>
 
 I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania.
 
