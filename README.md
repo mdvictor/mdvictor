@@ -1,7 +1,7 @@
 ## Hi!👋
 ### My name is [Victor Marin](https://www.victor-marin.dev/) and I like code.
 
-<img align="right" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 50%;"/>
+<img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" style="max-width: 50%;"/>
 
 I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania.
 
