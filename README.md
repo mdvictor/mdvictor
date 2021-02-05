@@ -10,7 +10,7 @@ Always trying to grow and keep myself updated with the latest and greatest techn
 
 Big interest in game development, machine learning and blockchain tech.
 
-## Reach me through one of these links ⬇️
+## Let's get in touch ⬇️
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-marin-b9795a108/)
 [![Portfolio Badge](http://img.shields.io/badge/portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-marin.dev)
