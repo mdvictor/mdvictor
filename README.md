@@ -3,9 +3,9 @@
 
 <img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
 
-I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania.
+I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania. Always trying to grow and keep myself updated with the latest and greatest technologies. I believe life is nothing without passion.
 
-I'm also interested in game development, machine learning and blockchain tech.
+Big interest in game development, machine learning and blockchain tech.
 
 ## Reach me through one of the links below ⬇️
 
