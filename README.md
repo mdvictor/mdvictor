@@ -11,6 +11,6 @@ I'm also interested in game development, machine learning and blockchain tech.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victor-marin-b9795a108/)
 [![Portfolio Badge](http://img.shields.io/badge/portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-marin.dev)
-[![Twitter Badge](http://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter)](https://twitter.com/mdvictor_)
-[![Dev.to Badge](http://img.shields.io/badge/dev.to-lightgrey?style=for-the-badge&logo=dev.to)](https://dev.to/mdvictor_)
-[![Instagram Badge](http://img.shields.io/badge/instagram-yellow?style=for-the-badge&logo=instagram)](https://www.instagram.com/mdvictor_/)
+[![Twitter Badge](http://img.shields.io/badge/twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdvictor_)
+[![Dev.to Badge](http://img.shields.io/badge/dev.to-lightgrey?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mdvictor_)
+[![Instagram Badge](http://img.shields.io/badge/instagram-critical?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdvictor_/)
