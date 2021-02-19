@@ -1,14 +1,14 @@
 ## Hi!👋
-### My name is [Victor Marin](https://www.victor-marin.dev/) and I like code.
+### My name is [Victor Marin](https://www.victor-marin.dev/).
 
 <img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
 
 
 I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania. 
 
-Always trying to grow and keep myself updated with the latest and greatest technologies. I believe life is nothing without passion.
+I enjoy trying out new and interesting technologies.
 
-Big interest in game development, machine learning and blockchain tech.
+Currently into game development, machine learning and blockchain tech.
 
 ## Let's get in touch ⬇️
 
