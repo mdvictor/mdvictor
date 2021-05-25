@@ -4,7 +4,7 @@
 <img align="right" max-width="50%" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width="500"/>
 
 
-I'm a software developer with a passion for hardware and electronics based in Bucharest, Romania. 
+I'm a software engineer with a passion for hardware and electronics based in Bucharest, Romania. 
 
 I enjoy trying out new and interesting technologies.
 
